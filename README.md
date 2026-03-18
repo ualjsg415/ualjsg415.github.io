@@ -1,27 +1,5 @@
-<style>
-	html,
-	body {
-		min-height: 100%;
-		background: linear-gradient(45deg, #e0e7ff 0%, #ffffff 100%);
-		background-attachment: fixed;
-	}
-
-	#header_wrap {
-		display: none;
-	}
-
-	#main_content_wrap {
-		background: transparent;
-		border-top: 0;
-	}
-
-	#main_content {
-		padding-top: 2.2rem;
-	}
-</style>
-
 <p align="center">
-	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=200&section=header&text=Javier%20Saiz%20Gomez&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header" />
+	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=280&section=header&text=Javier%20Saiz%20Gomez&fontSize=52&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
 
 <p align="center">
