@@ -2,7 +2,7 @@
 	html,
 	body {
 		min-height: 100%;
-		background: linear-gradient(to bottom, #0f172a 0%, #1e293b 100%);
+		background: linear-gradient(45deg, #e0e7ff 0%, #ffffff 100%);
 		background-attachment: fixed;
 	}
 
