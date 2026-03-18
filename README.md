@@ -40,7 +40,7 @@ Aqui presento mi perfil, mis herramientas de trabajo y los enlaces clave del pro
 
 Repositorio del equipo:
 
-- https://github.com/ualhmis2026-loshermanosbros
+- [ualhmis2026-loshermanosbros](https://github.com/ualhmis2026-loshermanosbros)
 
 Objetivo del proyecto:
 
@@ -57,6 +57,6 @@ Objetivo del proyecto:
 
 ## Enlaces
 
-- Perfil GitHub: https://github.com/ualjsg415
-- GitHub Pages: https://ualjsg415.github.io/
-- Repositorio del equipo: https://github.com/ualhmis2026-loshermanosbros
+- Perfil GitHub: [github.com/ualjsg415](https://github.com/ualjsg415)
+- GitHub Pages: [ualjsg415.github.io](https://ualjsg415.github.io/)
+- Repositorio del equipo: [github.com/ualhmis2026-loshermanosbros](https://github.com/ualhmis2026-loshermanosbros)
