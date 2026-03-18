@@ -1,15 +1,22 @@
 <style>
-	.page-header {
-		display: none;
-	}
-
+	html,
 	body {
-		background: linear-gradient(135deg, #f4f7ff 0%, #edf2fb 45%, #e5ecf8 100%);
+		min-height: 100%;
+		background: linear-gradient(135deg, #f3f6ff 0%, #e7eefb 45%, #dbe6f7 100%);
 		background-attachment: fixed;
 	}
 
-	.main-content {
-		padding-top: 2.5rem;
+	#header_wrap {
+		display: none;
+	}
+
+	#main_content_wrap {
+		background: transparent;
+		border-top: 0;
+	}
+
+	#main_content {
+		padding-top: 2.2rem;
 	}
 </style>
 
