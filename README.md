@@ -1,3 +1,18 @@
+<style>
+	.page-header {
+		display: none;
+	}
+
+	body {
+		background: linear-gradient(135deg, #f4f7ff 0%, #edf2fb 45%, #e5ecf8 100%);
+		background-attachment: fixed;
+	}
+
+	.main-content {
+		padding-top: 2.5rem;
+	}
+</style>
+
 <p align="center">
 	<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:1d4ed8&height=200&section=header&text=Javier%20Saiz%20Gomez&fontSize=42&fontColor=ffffff&animation=fadeIn" alt="Header" />
 </p>
